@@ -1,0 +1,9 @@
+Date:19/5/2020
+Section 1: Lecture 2
+Headings and paragraphs
+
+Task
+Add an HTML <title> tag and add text Hello, Space Friends! between opening and closing tags.
+Add a heading <h1> tag to the body and add text Space Doggo Adventures between opening and closing tags.
+Add a paragraph <p> tag to the body and add text This is the first Space Doggo Adventure! between opening and closing tags.
+
