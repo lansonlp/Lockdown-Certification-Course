@@ -1,0 +1,14 @@
+Section 1: Lecture 6
+HTML Forms
+Task
+   Add the form name 'Leave your awesome comment' using <h2> element.
+Create a form using <form> element.
+Add name field using <input>, name it 'myfriendname' and add the placeholder with a text 'Your name'.
+Add email field using <input>, name it 'email-address' and add the placeholder with a text 'Your email address'.
+Add textarea for a comment using <textarea> element with text 'Add your awesome comment here.
+
+Section 1: Lecture 7
+HTML Forms (submssion form)
+TASK
+  Add 'Send' button to the form using <input> element.
+  date:23-05-2020
