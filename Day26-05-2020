@@ -1,0 +1,7 @@
+Section 2: Lecture 3
+CSS Selectors
+Task
+     Add class 'title' to <caption> element in index.html file.
+     Add a CSS selector for a class 'title' in the style.css file.
+     Change title color to orange.
+date:26-05-2020
