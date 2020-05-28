@@ -1,0 +1,11 @@
+Section 1: Lecture 5
+HTML Tables
+TASK
+   Add table name 'Space Doggo Budget' using <h3> element.
+Create a table using <table> element.
+Set the date as 'Jan 1st - Feb 14th' using <caption> element.
+Add 5 rows to the table using <tr> element.
+Add 2 columns using <td> element.
+Put the following expenses to the table.Table example
+Change first row into table headers using <th>.
+date:22-05-2020
