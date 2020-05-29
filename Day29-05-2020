@@ -1,0 +1,15 @@
+Section 2: Lecture 6
+Styling Tables
+Task
+      Add a CSS selectors for the table table, th, td.
+     Set border of the table to 2px solid white.
+      Set text align to center.
+
+Section 2: Lecture 7
+CSS Image positioning
+Task
+     Add a CSS selector for the image <img>
+     Set maximum image width to 200px.
+     Set image float to left.
+     Set image right margin to 15px.
+date:29-05-2020
